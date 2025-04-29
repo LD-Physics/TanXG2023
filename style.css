@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+#pdf-list {
+    margin-top: 20px;
+}
+.pdf-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.pdf-title {
+    font-size: 1.2em;
+    margin-top: 0;
+}
+.pdf-link {
+    display: inline-block;
+    background: #4CAF50;
+    color: white;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+.pdf-link:hover {
+    background: #45a049;
+}
